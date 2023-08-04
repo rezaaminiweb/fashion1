@@ -1,0 +1,24 @@
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  transition: 0.4s;
+}
+
+body {
+  font-family: iran;
+  color: white;
+}
+@font-face {
+  font-family: iran;
+  src: url(../font/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li {
+  list-style-type: none;
+}/*# sourceMappingURL=all.css.map */
